@@ -144,12 +144,11 @@ Finally, click **Submit** to save details.
 
    ![](/img/OnboardingDocs/odl-provide-activation-code-details.png)
 
-
-9. Copy the Bit.ly URL and share it with the users.
+12. Copy the Bit.ly URL and share it with the users.
 
     ![](/img/OnboardingDocs/odl-copy-bitly-url.png)
 
-10. Users can activate their labs by following the below steps:
+13. Users can activate their labs by following the below steps:
      -	Navigate to the Bit.ly URL.
      -	Provide the required details.
      -	Click on Submit.
@@ -161,33 +160,11 @@ Finally, click **Submit** to save details.
 
 1.If you are creating files for IAM Policies and adding it in CloudLabs, make sure the URLs of files are publicly accessible.
 
-2. Make sure you are adding the URLs of Rbac, Policy and UsagePolicy files in its respective fields.
+2. Make sure you are adding the URLs of IAM Policy and UsagePolicy files in its respective fields.
 
-3. If you are facing issues in deploying resources from AWS due to permission issues, follow the below-mentioned steps:
+3. While creating the ODL, make sure you map the ODL with correct template to avoid conflict in labs.
 
-    - Update the IAM Policies according to the requirement in the S3 bucket.
-    
-    - Navigate to the respected ODL from CloudLabs Portal and click on Control Panel button. 
-      ![](/img/OnboardingDocs/controlpanel.png)
-    
-    - In the **CONTROL PANEL** page, scroll down to **---Others** section and click on **Manage Permissions** button.
-      ![](/img/OnboardingDocs/manage-permission.png)
-
-    - Click on **x Remove** _(1)_ button next to the IAM Policy permission you want remove.
-      ![](/img/OnboardingDocs/remove-permission.png)
-
-      > **Note:** If the **Actions** of the IAM Policy deosn't update to **> Apply** post clicking on **x Remove**, then click **REFRESH** _(2)_ to reload the changes.
-    
-    - Click on **> Apply** button to re-apply the IAM Policy. Once the permission is re-applied, the button will revert to **x Remove** again.
-      ![](/img/OnboardingDocs/apply-permission.png)
-
-      > **Note:** If the **Actions** of the IAM Policy deosn't update to **x Remove** post clicking on **> Apply**, then click **REFRESH** to reload the changes.
-
-    - Navigate back to the browser where you have logged in to the AWS Management Console, Sign-Out and Sign-In to the AWS Management Console so that the changes get reflected.
-
-4. While creating the ODL, make sure you map the ODL with correct template to avoid conflict in labs.
-
-5. Ensure you are following the Syntax correctly while creating the IAM Policies to avoid deployment failures.
+4. Ensure you are following the Syntax correctly while creating the IAM Policies to avoid deployment failures.
 
 
 
