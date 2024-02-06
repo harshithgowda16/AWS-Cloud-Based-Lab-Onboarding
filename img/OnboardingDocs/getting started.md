@@ -1,15 +1,15 @@
 ---
 sidebar_position: 1
-slug: /Admin/LabDeveloper/Guide For Onboarding Labs/Cloud Based Labs Onboarding/AWS Cloud Based Lab Onboarding.md
+slug: /Admin/LabDeveloper/Guide For Onboarding Labs/Cloud Based Labs Onboarding/AWS  Based Lab Onboarding.md
 ---
 
-# AWS Cloud Based Lab Onboarding
+# AWS Based Lab Onboarding
  
 ## Overview:
  
-This document provides a comprehensive guide to the end-to-end process of onboarding an AWS-based lab scenario using the CloudLabs portal. Within this document, you will learn how to create a CloudFormation template, a CloudLabs template, set up a CloudLabs On Demand Lab (ODL), manage users, and troubleshoot basic issues.
+This document provides a comprehensive guide to the end-to-end process of onboarding an AWS based lab scenario using the CloudLabs portal. Within this document, you will learn how to create a CloudFormation template, a CloudLabs template, set up a CloudLabs On Demand Lab (ODL), manage users, and troubleshoot basic issues.
 
-AWS-based labs are effective when you want to provide a hands-on learning experience to your users or students on AWS Cloud. These labs are particularly useful for learning about AWS, like using AWS Identity and Access Management (IAM) for identity and access management to users, deploying resources such as S3 Buckets, EC2 Instances and many more. To set up a lab successfully, follow the instructions listed below.
+AWS based labs are effective when you want to provide a hands-on learning experience to your users or students on AWS Cloud. These labs are particularly useful for learning about AWS, like using AWS Identity and Access Management (IAM) for identity and access management to users, deploying resources such as S3 Buckets, EC2 Instances and many more. To set up a lab successfully, follow the instructions listed below.
 
 In this document you will be going through with the below topics:
 
@@ -27,7 +27,7 @@ In this document you will be going through with the below topics:
 
 ## Prerequisites
 
-Before you begin onboarding an AWS-based lab through CloudLabs, ensure you have the following prerequisites:
+Before you begin onboarding an AWS based lab through CloudLabs, ensure you have the following prerequisites:
 
 1. Admin access to [CloudLabs Admin Centre](https://admin.cloudlabs.ai/) (If access is unavailable, kindly reach out to your point of contact or [CloudLabs Support](../../GuideForOnboardingLabs/ContactSupport.md)).
 
@@ -41,10 +41,6 @@ Before you begin onboarding an AWS-based lab through CloudLabs, ensure you have 
 To onboard an AWS based lab to CloudLabs, use the below details:
 
 - **Subscription Types**:  To onboard a AWS based lab, you should firstly determine what type of access the participants would require and post that you need to select the Subscription type from one of the three types below that CloudLabs offers. It is highly recommended that you apply access and policy constraints for the chosen subscription type.
-
-    - **Shared Subscription** : Several users can share a single AWS account. In the instances below, select the shared subscription type.
-
-        * AWS Cloud Based Labs; access is granted to AWS management console.
    
     - **Dedicated Subscription** : One of the AWS Organization Member account will be given to the one user.
 
