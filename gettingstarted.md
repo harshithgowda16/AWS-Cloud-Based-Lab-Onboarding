@@ -109,7 +109,7 @@ You have successfully onboarded the On-Demand Lab (ODL) into CloudLabs.
 
    ![](/img/OnboardingDocs/odl-launchlab.png)
 
-7. After the instance is successfully deployed,open a new tab within a browser and sign in to the AWS Console using the Sign-in link provided in the Environment details tab of the CloudLabs environment page below provided screenshot:  
+7. After the instance is successfully deployed,On the CloudLabs environment page you will be able to see the login credentials like in below provided screenshot:  
 
    ![](/img/OnboardingDocs/Detailspage.png)
 
