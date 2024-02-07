@@ -149,7 +149,7 @@ Finally, click **Submit** to save details.
      -	Provide the required details.
      -	Click on Submit.
 
-     ![](/img/OnboardingDocs/registrationpage)
+     ![](/img/OnboardingDocs/registrationpage.png)
 
 
 ## Common Issues and Resolutions
