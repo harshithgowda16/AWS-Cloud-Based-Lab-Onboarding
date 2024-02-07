@@ -93,13 +93,13 @@ You have successfully onboarded the On-Demand Lab (ODL) into CloudLabs.
 
 2. Click on **+ Add User** and enter your details, then click on **Submit**. 
 
-   ![](/img/OnboardingDocs/adduser-v2.png)
+   ![](/img/OnboardingDocs/adduser.png)
 
 3. Now you have successfully registered yourself as a user. 
 
 4. Within the **Users** page, you will find an instance registered under your name, indicated by its status being in the Approved state _(1)_. Proceed by clicking the **Launch** _(2)_ button.
 
-   ![](/img/OnboardingDocs/odl-approved1.png)
+   ![](/img/OnboardingDocs/Approved.png)
 
 5. Now you will be navigated to a different browser tab where you will be able to view the page as shown in the screenshot below. On this page, click on the **Launch Lab** button.
 
@@ -107,17 +107,17 @@ You have successfully onboarded the On-Demand Lab (ODL) into CloudLabs.
 
 6. Upon clicking the **Launch Lab** button, the deployment process will initiate, leading you to the screen illustrated in the provided screenshot below:
 
-   ![](/img/OnboardingDocs/odl-lablaunch.png)
+   ![](/img/OnboardingDocs/odl-launchlab.png)
 
-7. After the instance is successfully deployed, you will encounter the screen depicted in the below provided screenshot:  
+7. After the instance is successfully deployed,open a new tab within a browser and sign in to the AWS Console using the Sign-in link provided in the Environment details tab of the CloudLabs environment page below provided screenshot:  
 
-   ![](/img/OnboardingDocs/labvm.png)
+   ![](/img/OnboardingDocs/Detailspage.png)
 
 8. You can also activate the lab at bulk using Bit.ly URL by following the below steps.
 
 9. From the **On Demand Labs** Page, choose your ODL _(1)_ and note down the ODL ID. Click on the Elipses icon _(2)_ and select **Activate Codes** _(3)_ to create an activation code. 
 
-   ![](/img/OnboardingDocs/odl-select-odl-v2.png)
+   ![](/img/OnboardingDocs/odl-select-odl.png)
 
 
 10. Click on **+ ADD ACTIVATION CODE** 
@@ -138,7 +138,7 @@ You have successfully onboarded the On-Demand Lab (ODL) into CloudLabs.
 
 Finally, click **Submit** to save details.
 
-   ![](/img/OnboardingDocs/odl-provide-activation-code-details.png)
+   ![](/img/OnboardingDocs/odl-provide-activation-code.png)
 
 12. Copy the Bit.ly URL and share it with the users.
 
@@ -149,7 +149,7 @@ Finally, click **Submit** to save details.
      -	Provide the required details.
      -	Click on Submit.
 
-     ![](/img/OnboardingDocs/register.png)
+     ![](/img/OnboardingDocs/registrationpage)
 
 
 ## Common Issues and Resolutions
