@@ -40,7 +40,7 @@ Before you begin onboarding an AWS based lab through CloudLabs, ensure you have 
 
 To onboard an AWS based lab to CloudLabs, use the below details:
 
-- **Subscription Types**:  To onboard a AWS based lab, you should firstly determine what type of access the participants would require and post that you need to select the Subscription type from one of the three types below that CloudLabs offers. It is highly recommended that you apply access and policy constraints for the chosen subscription type.
+- **Subscription Types**:  To onboard a AWS based lab, you should firstly determine what type of access the participants would require and post that you need to select the Subscription type from one of the types below that CloudLabs offers. It is highly recommended that you apply access and policy constraints for the chosen subscription type.
    
     - **Dedicated Subscription** : One of the AWS Organization Member account will be given to the one user.
 
